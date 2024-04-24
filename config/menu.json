@@ -1,0 +1,27 @@
+{
+    "buttonText": "Exibir",
+    "text": "",
+    "title": "Menu",
+    "description": "Acesse o menu para obter todos os comandos disponiveis para a Duda",
+    "sections": [
+      {
+        "title": "Geral",
+        "rows": [
+          {
+            "title": "Comandos",
+            "rowId": "text"
+          },
+          {
+            "title": "Ajustes",
+            "rowId": "text"
+          },
+          {
+            "title": "Sobre",
+            "rowId": "text"
+          }
+        ]
+      }
+    ],
+    "listType": 0
+  }
+  

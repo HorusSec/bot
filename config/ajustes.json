@@ -1,0 +1,39 @@
+{
+  "buttonText": "Exibir",
+  "text": "",
+  "title": "",
+  "description": "Menu para realização de alteraçoes do *Perfil do Bot* ou *Funções do BOT*",
+  "sections": [
+      {
+          "title": "Perfil",
+          "rows": [
+              {
+                  "title": "Nome",
+                  "rowId": "string"
+              },
+              {
+                  "title": "Foto",
+                  "rowId": "string"
+              },
+              {
+                  "title": "Conversas",
+                  "rowId": "string"
+              }
+          ]
+      },
+      {
+          "title": "Funções",
+          "rows": [
+              {
+                  "title": "Ativar",
+                  "subtitle": "Ativar esta função"
+              },
+              {
+                  "title": "Desativar",
+                  "subtitle": "Desativar esta função"
+              }
+          ]
+      }
+  ],
+  "listType": 0
+}

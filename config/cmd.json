@@ -1,0 +1,18 @@
+{
+  "menu": {
+    "comando": "menu",
+    "rota_imagem": "imagens/menu.png"
+  },
+  "comandos": {
+    "comando": "comandos",
+    "rota_imagem": "imagens/comandos.png"
+  },
+  "sobre": {
+    "comando": "sobre",
+    "rota_imagem": "imagens/sobre.png"
+  },
+  "ajustes": {
+    "comando": "ajustes",
+    "rota_imagem": "imagens/ajustes.png"
+  }
+}

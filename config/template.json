@@ -1,0 +1,39 @@
+{
+  "buttonText": "Exibir",
+  "text": "",
+  "title": "",
+  "description": "Veja a lista *completa de comandos* separados por *categorias*",
+  "sections": [
+      {
+          "title": "Teste",
+          "rows": [
+              {
+                  "title": "Comando 1",
+                  "rowId": "string"
+              },
+              {
+                  "title": "Comando 2",
+                  "rowId": "string"
+              },
+              {
+                  "title": "Comando 3",
+                  "rowId": "string"
+              }
+          ]
+      },
+      {
+          "title": "Admin",
+          "rows": [
+              {
+                  "title": "Ativar",
+                  "subtitle": "Ativar esta função"
+              },
+              {
+                  "title": "Desativar",
+                  "subtitle": "Desativar esta função"
+              }
+          ]
+      }
+  ],
+  "listType": 0
+}

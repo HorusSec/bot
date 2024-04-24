@@ -1,0 +1,26 @@
+{
+  "buttonText": "Exibir",
+  "text": "",
+  "title": "",
+  "description": "Aqui você encontra informções sobre *Mim* e sobre meu *criador* e como utilizar meus *serviços*",
+  "sections": [
+      {
+          "title": "",
+          "rows": [
+              {
+                  "title": "Informações",
+                  "rowId": "string"
+              },
+              {
+                  "title": "Dono",
+                  "rowId": "string"
+              },
+              {
+                  "title": "Adiquirir",
+                  "rowId": "string"
+              }
+          ]
+      }
+      ],
+  "listType": 0
+}
